@@ -25,3 +25,7 @@ The system contains the following classes:
 - Validates username (must contain underscore and max 5 characters)
 - Validates password (8+ characters, uppercase, number, special character)
 - Validates South African phone numbers (+27 format)
+
+### 2. Login System
+- Users must log in using registered credentials
+- Displays success or failure messages
