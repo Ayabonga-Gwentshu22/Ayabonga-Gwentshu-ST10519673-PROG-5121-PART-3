@@ -52,3 +52,15 @@ Messages are stored using:
 The system can:
 - Search messages by recipient
 - Search messages by message ID
+
+### 6. Reporting
+- Display all stored messages
+- Show developer and recipient pairs
+- Display full message report
+
+---
+
+### 7. Delete Feature
+- Messages can be deleted using their hash
+- Arrays are shifted correctly after deletion
+
