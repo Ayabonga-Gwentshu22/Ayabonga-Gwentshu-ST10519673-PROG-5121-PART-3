@@ -1,1 +1,1 @@
-# Ayabonga-Gwentshu-ST10519673-PROG-5121-PART-3
+QuickChat is a Java-based messaging system that allows users to:Register and log in securelySend, store, or disregard messagesGenerate message IDs and hashesStore messages using parallel arraysSearch, delete, and display message reports
