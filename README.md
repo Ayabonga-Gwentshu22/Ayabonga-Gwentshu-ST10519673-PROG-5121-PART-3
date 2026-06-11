@@ -16,3 +16,7 @@ Users must log in using registered credentials
 -Displays success or failure messages.Users can:
 Send messages
 Store messages Disregard messages
+Each message:
+- Gets a unique 10-digit ID
+- Generates a message hash
+- Can be stored in a JSON file
