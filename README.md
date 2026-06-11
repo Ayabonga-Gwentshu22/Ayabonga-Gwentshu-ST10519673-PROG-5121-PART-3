@@ -35,3 +35,14 @@ The system contains the following classes:
 Users can:
 - Send messages
 - Store messages
+
+
+### 4. Message Storage (Parallel Arrays)
+Messages are stored using:
+- recipients[]
+- senders[]
+- messageHashes[]
+- messageIds[]
+- flags[]
+- sentMessages[]
+- storedMessages[]
