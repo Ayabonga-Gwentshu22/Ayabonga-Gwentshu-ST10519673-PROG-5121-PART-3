@@ -5,3 +5,10 @@ The system demonstrates the use of:
 - Input validation
 - File handling
 - Menu-driven console application
+The system contains the following classes:
+MainApp→ Main menu and program entry point
+MessageTest→ Handles registration, login, and message creation
+LoginForm→ Validates user credentials
+Message→ Handles message creation, validation, and storage
+MessageManager→ Stores messages using parallel arrays
+MessageProcessor  Handles searching, reporting, and deletion
