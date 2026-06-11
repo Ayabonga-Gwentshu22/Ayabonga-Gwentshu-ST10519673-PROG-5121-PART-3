@@ -46,3 +46,9 @@ Messages are stored using:
 - flags[]
 - sentMessages[]
 - storedMessages[]
+
+
+### 5. Search Functionality
+The system can:
+- Search messages by recipient
+- Search messages by message ID
