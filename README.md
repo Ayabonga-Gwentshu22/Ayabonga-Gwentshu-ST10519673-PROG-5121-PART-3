@@ -29,3 +29,9 @@ The system contains the following classes:
 ### 2. Login System
 - Users must log in using registered credentials
 - Displays success or failure messages
+
+
+### 3. Message Handling
+Users can:
+- Send messages
+- Store messages
