@@ -17,3 +17,11 @@ The system contains the following classes:
 - Message, this handles message creation, validation, and storage
 - MessageManager, this stores messages using parallel arrays
 - MessageProcessor, this handles searching, reporting, and deletion
+
+  
+## Features
+
+### 1. User Registration
+- Validates username (must contain underscore and max 5 characters)
+- Validates password (8+ characters, uppercase, number, special character)
+- Validates South African phone numbers (+27 format)
