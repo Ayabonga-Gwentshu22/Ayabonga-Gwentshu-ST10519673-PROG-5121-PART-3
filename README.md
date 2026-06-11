@@ -12,3 +12,7 @@ LoginForm→ Validates user credentials
 Message→ Handles message creation, validation, and storage
 MessageManager→ Stores messages using parallel arrays
 MessageProcessor  Handles searching, reporting, and deletion
+Users must log in using registered credentials
+-Displays success or failure messages.Users can:
+Send messages
+Store messages Disregard messages
