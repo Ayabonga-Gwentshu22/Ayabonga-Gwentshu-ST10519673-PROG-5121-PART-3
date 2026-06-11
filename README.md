@@ -20,3 +20,12 @@ Each message:
 - Gets a unique 10-digit ID
 - Generates a message hash
 - Can be stored in a JSON file
+Messages are stored using:
+- recipients[]
+- senders[]
+- messageHashes[]
+- messageIds[]
+- flags[]
+- sentMessages[]
+- storedMessages[]
+- disregardedMessages[]
