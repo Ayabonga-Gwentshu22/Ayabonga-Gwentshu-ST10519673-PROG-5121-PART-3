@@ -59,7 +59,8 @@ The system can:
 - Display full message report
 
 ---
-
+### 8. Longest Message Feature
+- Finds and displays the longest stored message
 ### 7. Delete Feature
 - Messages can be deleted using their hash
 - Arrays are shifted correctly after deletion
